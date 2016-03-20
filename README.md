@@ -1,4 +1,4 @@
-# awesome-gotchas
+# awesome-falsehoods
 A list of articles about programming assumptions commonly made that aren't true.
 
 ## Time
