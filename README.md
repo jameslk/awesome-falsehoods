@@ -26,3 +26,13 @@ A list of articles about programming assumptions commonly made that aren't true.
 [Falsehoods programmers believe about geography](http://wiesmann.codiferes.net/wordpress/?p=15187)
 
 [Falsehoods programmers believe about maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/)
+
+## Contribution
+
+Contributions are welcome! Please feel free to make any suggestions via creating an issue or opening a pull request.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+This list is released into the public domain.
