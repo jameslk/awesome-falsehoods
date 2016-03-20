@@ -1,5 +1,5 @@
-# awesome-falsehoods
-A list of articles about programming assumptions commonly made that aren't true.
+# Awesome Falsehoods
+A curated list of awesome articles about falsehoods programmers make about things which are simply untrue.
 
 ## Time
 
@@ -30,6 +30,11 @@ A list of articles about programming assumptions commonly made that aren't true.
 ## Gender
 
 [Falsehoods Programmers believe about Gender](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c#.wanm4lsrn)
+
+## Tech
+
+[Falsehoods programmers believe about networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html)
+[Falsehoods programmers believe about build systems](http://pozorvlak.livejournal.com/174763.html)
 
 ## Contribution
 
