@@ -39,7 +39,7 @@ A curated list of awesome articles about falsehoods programmers make about thing
 
 ## Contribution
 
-Contributions are welcome! Please feel free to make any suggestions via creating an issue or opening a pull request.
+Contributions are welcome! Please feel free to make any suggestions via creating an issue or opening a pull request. The ideal article would also include explanations of *why* the particular falsehoods are not true and give suggestions for what to do instead.
 
 ## License
 
