@@ -34,6 +34,7 @@ A curated list of awesome articles about falsehoods programmers make about thing
 ## Tech
 
 [Falsehoods programmers believe about networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html)
+
 [Falsehoods programmers believe about build systems](http://pozorvlak.livejournal.com/174763.html)
 
 ## Contribution
