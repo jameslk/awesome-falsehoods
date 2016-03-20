@@ -27,6 +27,10 @@ A list of articles about programming assumptions commonly made that aren't true.
 
 [Falsehoods programmers believe about maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/)
 
+## Gender
+
+[Falsehoods Programmers believe about Gender](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c#.wanm4lsrn)
+
 ## Contribution
 
 Contributions are welcome! Please feel free to make any suggestions via creating an issue or opening a pull request.
